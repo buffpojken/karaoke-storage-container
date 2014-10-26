@@ -1,0 +1,4 @@
+This is a work-in-progress subclass of NSTextStorage with support for 
+karaoke-style highlighting, either per word or per character.
+
+Public domain.
